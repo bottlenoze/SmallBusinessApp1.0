@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : exampleCode.cpp
-// Author      : Brandon T
+// Author      : Bottlenoze
 // Version     :
 // Copyright   :
 // Description : Examples of code syntax for various statments, functions, etc
