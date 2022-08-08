@@ -2,7 +2,7 @@
  * Receipts.cpp
  *
  *  Created on: Aug 12, 2020
- *      Author: brandon
+ *      Author: Bottlenoze
  */
 
 #include "Receipt.h"
