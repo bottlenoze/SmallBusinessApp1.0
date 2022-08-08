@@ -2,7 +2,7 @@
  * Account.h
  *
  *  Created on: Jul 11, 2020
- *      Author: brandon
+ *      Author: Bottlenoze
  */
 
 #ifndef ACCOUNT_H_
