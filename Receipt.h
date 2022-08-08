@@ -2,7 +2,7 @@
  * Receipts.h
  *
  *  Created on: Aug 12, 2020
- *      Author: brandon
+ *      Author: Bottlenoze
  */
 
 #ifndef RECEIPT_H_
