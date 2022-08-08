@@ -2,7 +2,7 @@
  * Account.cpp
  *
  *  Created on: Jul 11, 2020
- *      Author: brandon
+ *      Author: Bottlenoze
  */
 
 #include "Account.h"
